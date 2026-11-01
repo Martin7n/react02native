@@ -1,0 +1,211 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Man of Steel",
+      "year": 2013,
+      "director": "Zack Snyder",
+      "genre": "Action, Sci-Fi",
+      "durationMinutes": 143,
+      "posterUrl": "https://m.media-amazon.com/images/I/61HwMSY89iL.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Matrix",
+      "year": 1999,
+      "director": "The Wachowskis",
+      "genre": "Action, Sci-Fi",
+      "durationMinutes": 136,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHvH0tlGmpwi5iaH0179IFg8YWluiAoTXlQ&s"
+    },
+    {
+      "id": 3,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "director": "Peter Jackson",
+      "genre": "Fantasy, Adventure",
+      "durationMinutes": 178,
+      "posterUrl": "https://m.media-amazon.com/images/I/81EBp0vOZZL.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Inception",
+      "year": 2010,
+      "director": "Christopher Nolan",
+      "genre": "Action, Sci-Fi, Thriller",
+      "durationMinutes": 148,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP61dq7vCE9wiW0Ls3hQ7qzWNBUJJKh33OLQ&s"
+    },
+    {
+      "id": 5,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "director": "Christopher Nolan",
+      "genre": "Action, Crime, Drama",
+      "durationMinutes": 152,
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Interstellar",
+      "year": 2014,
+      "director": "Christopher Nolan",
+      "genre": "Sci-Fi, Drama",
+      "durationMinutes": 169,
+      "posterUrl": "https://storage.highresaudio.com/2020/11/12/uxipvx-interstell-master.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Gladiator",
+      "year": 2000,
+      "director": "Ridley Scott",
+      "genre": "Action, Drama, History",
+      "durationMinutes": 155,
+      "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrURQw9D5TysFfJd5_VcPzC0NPy1DWqKQKQQ&s"
+    },
+    {
+      "id": 8,
+      "title": "The Case for Christ",
+      "year": 2017,
+      "director": "Jon Gunn",
+      "genre": "Drama, Biography",
+      "durationMinutes": 113,
+      "posterUrl": "https://images.contentstack.io/v3/assets/blt13adb7e2033fcee5/blt0d1f4de5ebdfac7f/690ea9e4ce1b93080a4a288e/CaseForChrist_Poster.jpg?width=1200"
+    },
+    {
+      "id": 9,
+      "title": "Dune",
+      "year": 2021,
+      "director": "Denis Villeneuve",
+      "genre": "Sci-Fi, Adventure, Drama",
+      "durationMinutes": 155,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Dune: Part Two",
+      "year": 2024,
+      "director": "Denis Villeneuve",
+      "genre": "Sci-Fi, Adventure, Drama",
+      "durationMinutes": 166,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/1pdfLvkbY9ohJlCjQH2CZjjYVvJ.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Oppenheimer",
+      "year": 2023,
+      "director": "Christopher Nolan",
+      "genre": "Biography, Drama, History",
+      "durationMinutes": 180,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Memento",
+      "year": 2000,
+      "director": "Christopher Nolan",
+      "genre": "Mystery, Thriller",
+      "durationMinutes": 113,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Arrival",
+      "year": 2016,
+      "director": "Denis Villeneuve",
+      "genre": "Sci-Fi, Drama, Mystery",
+      "durationMinutes": 116,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/x2FJsf1ElAgr63Y3PNPtJrcmpoe.jpg"
+    },
+    {
+      "id": 14,
+      "title": "Blade Runner 2049",
+      "year": 2017,
+      "director": "Denis Villeneuve",
+      "genre": "Sci-Fi, Drama, Thriller",
+      "durationMinutes": 164,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Avengers: Infinity War",
+      "year": 2018,
+      "director": "Anthony Russo, Joe Russo",
+      "genre": "Action, Sci-Fi, Adventure",
+      "durationMinutes": 149,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "director": "Anthony Russo, Joe Russo",
+      "genre": "Action, Sci-Fi, Adventure",
+      "durationMinutes": 181,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Joker",
+      "year": 2019,
+      "director": "Todd Phillips",
+      "genre": "Crime, Drama, Thriller",
+      "durationMinutes": 122,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Shutter Island",
+      "year": 2010,
+      "director": "Martin Scorsese",
+      "genre": "Mystery, Thriller",
+      "durationMinutes": 138,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Fight Club",
+      "year": 1999,
+      "director": "David Fincher",
+      "genre": "Drama, Thriller",
+      "durationMinutes": 139,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Green Mile",
+      "year": 1999,
+      "director": "Frank Darabont",
+      "genre": "Crime, Drama, Fantasy",
+      "durationMinutes": 189,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg"
+    },
+    {
+      "id": 21,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "director": "Frank Darabont",
+      "genre": "Drama, Crime",
+      "durationMinutes": 142,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Ford v Ferrari",
+      "year": 2019,
+      "director": "James Mangold",
+      "genre": "Drama, Action, Biography",
+      "durationMinutes": 152,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/dR1Ju50iudrOh3YgfwkAU1g2HZe.jpg"
+    },
+    {
+      "id": 23,
+      "title": "The Truman Show",
+      "year": 1998,
+      "director": "Peter Weir",
+      "genre": "Drama, Sci-Fi, Comedy",
+      "durationMinutes": 103,
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+    }
+  ]
+}
