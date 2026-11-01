@@ -1,4 +1,11 @@
-import { Image, ScrollView, StyleSheet, Text, View } from "react-native";
+import {
+    Button,
+    Image,
+    ScrollView,
+    StyleSheet,
+    Text,
+    View,
+} from "react-native";
 
 export default function MovieList({ movie }) {
     return (
@@ -7,6 +14,13 @@ export default function MovieList({ movie }) {
 
             <View>
                 <Text style={styles.someText}> {movie?.genre}</Text>
+            </View>
+            <View>
+                <Button
+                    style={{ width: 300, height: 50 }}
+                    title="Press me"
+                    onPress={() => alert(`oi:${movie?.genre}`)}
+                />
             </View>
 
             <View>
@@ -25,7 +39,7 @@ const styles = StyleSheet.create({
     someText: {
         backgroundColor: "#71716d",
         color: "#f1eaea",
-        alignItems: "right",
+        alignItems: "center",
         justifyContent: "center",
         fontSize: 30,
         margin: 10,
