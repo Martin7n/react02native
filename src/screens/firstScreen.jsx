@@ -1,6 +1,6 @@
 import { ScrollView, StyleSheet, Text, View } from "react-native";
 import data from "../../testdata.json";
-import MovieList from "../components/movieList";
+import MovieList from "../components/MovieList";
 
 export default function FirstScreen() {
     const movies = data.movies;

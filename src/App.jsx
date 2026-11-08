@@ -6,8 +6,10 @@ import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import ThirdScreen from "./screens/ThirdScreen";
 import { MaterialDesignIcons } from "@react-native-vector-icons/material-design-icons";
-import FirstScreen from "./screens/firstScreen";
-import SecondScreen from "./screens/secondScreen";
+import FirstScreen from "./screens/FirstScreen";
+import SecondScreen from "./screens/SecondScreen";
+import Logout from "./screens/Logout";
+import UserLogin from "./screens/UserLogin";
 
 export default function App() {
     const Tab = createMaterialTopTabNavigator();
@@ -34,11 +36,11 @@ export default function App() {
                             name="FirstScreen"
                             component={FirstScreen}
                             options={{
-                                tabBarIcon: () => (
+                                tabBarIcon: ({ color, size, focused }) => (
                                     <MaterialDesignIcons
                                         name="weight-lifter"
                                         size={20}
-                                        color="black"
+                                        color={focused ? "#ee6024" : "#888888"}
                                     />
                                 ),
                             }}
@@ -73,7 +75,7 @@ export default function App() {
 
                         <Tab.Screen
                             name="Login"
-                            component={Login}
+                            component={UserLogin}
                             options={{
                                 tabBarIcon: () => (
                                     <MaterialDesignIcons
@@ -87,7 +89,7 @@ export default function App() {
 
                         <Tab.Screen
                             name="Logout"
-                            component={LogOut}
+                            component={Logout}
                             options={{
                                 tabBarIcon: () => (
                                     <MaterialDesignIcons
