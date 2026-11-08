@@ -8,6 +8,10 @@ import {
 } from "react-native";
 
 export default function MovieList({ movie }) {
+
+
+
+
     return (
         <View style={styles.someCont}>
             <Text style={styles.someText}> {movie?.title}</Text>
