@@ -8,9 +8,8 @@ export default function App() {
     return (
         <>
             <StatusBar style="light" backgroundColor="#171716" />
-           
-                <FirstScreen />
-           
+
+            <FirstScreen />
         </>
     );
 }
