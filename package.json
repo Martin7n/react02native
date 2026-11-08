@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "main": "src/index.js",
   "dependencies": {
+    "@expo/vector-icons": "^15.0.2",
+    "@react-native-vector-icons/material-design-icons": "^14.0.0",
     "@react-navigation/material-top-tabs": "^7.8.1",
     "@react-navigation/native": "^7.5.1",
     "expo": "~58.0.22",
